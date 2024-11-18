@@ -1,0 +1,30 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "megacheliq",
+  "classifications": [
+    "Web",
+    "Multi-Project",
+    "ASP.NET Core"
+  ],
+  "identity": "TelegramTemplate",
+  "name": "Template for tg bot on .NET",
+  "shortName": "TgTemplate",
+  "sourceName": "TelegramTemplate",
+  "preferNameDirectory": true,
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "symbols": {
+    "projectName": {
+      "type": "parameter",
+      "defaultValue": "TelegramTemplate",
+      "description": "The name for the main project"
+    },
+    "appName": {
+      "type": "parameter",
+      "defaultValue": "template-bot",
+      "description": "Name for the app (json route)"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "profiles": {
+    "template-bot": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "dotnetRunMessages": true,
+      "applicationUrl": "https://localhost:62227;http://localhost:62228"
+    }
+  }
+}
